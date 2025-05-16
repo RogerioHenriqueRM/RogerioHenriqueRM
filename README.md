@@ -30,6 +30,8 @@
   <a href="https://www.linkedin.com/in/rog%C3%A9rio-henrique-rocha-de-matos-3423aa2ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<iframe src="https://discord.com/widget?id=1229858530261991485&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 <!--
 **rogerio-henrique-rocha-de-matos/rogerio-henrique-rocha-de-matos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
