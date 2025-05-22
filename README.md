@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Rogério Henrique RM 
 
-<img alt="Night Coding" src="[https://orig00.deviantart.net/3c21/f/2015/161/6/4/dark_souls___solaire_idle_by_zedotagger-d8wrjt7.gif](https://i.pinimg.com/originals/e6/10/9e/e6109e32a9ac1a8f2496d7fba78e9c84.gif)" width="300px" height="250px" style="border-radius:20px" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/e6/10/9e/e6109e32a9ac1a8f2496d7fba78e9c84.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
 # Estastisticas
  <div>
    <a href="https://github.com/Rogério Henrique RM">
