@@ -1,8 +1,9 @@
 ## Bem-vindo(a) ao perfil do Rogério Henrique RM 
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/e6/10/9e/e6109e32a9ac1a8f2496d7fba78e9c84.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
+
 <h2>Estatisticas do meu github O_O </h2>
 <hr>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/e6/10/9e/e6109e32a9ac1a8f2496d7fba78e9c84.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
  <div>
    <a href="https://github.com/Rogério Henrique RM">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
