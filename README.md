@@ -128,6 +128,18 @@ class RogerioHenrique:
 
 <div align="center">
 
+## 🩸 Métricas do GitHub
+
+<img 
+  src="https://raw.githubusercontent.com/RogerioHenriqueRM/RogerioHenriqueRM/main/github-metrics.svg"
+  alt="Métricas do GitHub de Rogério Henrique"
+  width="95%"
+/>
+
+</div>
+
+<div align="center">
+
 ## 🩸 Gráfico de contribuições
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RogerioHenriqueRM&bg_color=050505&color=FFFFFF&line=DC143C&point=8B0000&area=true&area_color=8B0000&hide_border=true&custom_title=Atividade%20de%20Rogério%20Henrique"/>
