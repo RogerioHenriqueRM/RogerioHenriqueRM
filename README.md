@@ -2,7 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:050505&height=220&section=header&text=Rogério%20Henrique&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Automation%20%7C%20Technology&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=DC143C&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+Rogério+Henrique;Desenvolvedor+e+entusiasta+de+tecnologia;Python+%7C+SAP+%7C+Power+BI+%7C+Power+Apps;Automatizando+processos+e+criando+soluções;1000+-+7+%3D+%3F" alt="Typing SVG"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=DC143C&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Rog%C3%A9rio+Henrique;Desenvolvedor+e+entusiasta+de+tecnologia;Python+%7C+SAP+%7C+Power+BI+%7C+Power+Apps;Automatizando+processos+e+criando+solu%C3%A7%C3%B5es;1000+-+7+%3D+%3F"
+  alt="Texto animado de Rogério Henrique"
+/>
 
 <br>
 
