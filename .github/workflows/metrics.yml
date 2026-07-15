@@ -1,0 +1,49 @@
+name: Gerar métricas do GitHub
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  gerar-metricas:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Gerar arquivo de métricas
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: RogerioHenriqueRM
+
+          template: classic
+
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: America/Sao_Paulo
+
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_colors: github
+          plugin_languages_threshold: 0%
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
