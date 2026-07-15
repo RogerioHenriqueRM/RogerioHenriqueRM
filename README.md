@@ -73,6 +73,13 @@ class RogerioHenrique:
 </div>
 
 ---
+<div>
+   <a href="https://github.com/Rogério Henrique RM">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioHenriqueRM&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+---
 
 <div align="center">
 
