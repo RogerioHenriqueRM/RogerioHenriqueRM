@@ -67,12 +67,12 @@ class RogerioHenrique:
 
 <img
   width="49%"
-  src="https://meu-github-stats.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&icon_color=8B0000&text_color=FFFFFF&include_all_commits=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&icon_color=8B0000&text_color=FFFFFF&include_all_commits=true"
 />
 
 <img
   width="49%"
-  src="https://meu-github-stats.vercel.app/api/top-langs/?username=RogerioHenriqueRM&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RogerioHenriqueRM&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF"
 />
 
 <br><br>
@@ -81,16 +81,6 @@ class RogerioHenrique:
 
 </div>
 
----
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RogerioHenriqueRM&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
 ---
 
 <div align="center">
