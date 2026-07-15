@@ -85,17 +85,33 @@ class RogerioHenrique:
 
 <div align="center">
 
-## 🩶 Perfil de atividade
+<h2>🩶 Perfil de atividade</h2>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RogerioHenriqueRM&theme=github_dark"/>
+<img
+  width="95%"
+  src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+  alt="Detalhes do perfil"
+/>
 
 <br>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RogerioHenriqueRM&theme=github_dark"/>
+<img
+  width="32%"
+  src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+  alt="Repositórios por linguagem"
+/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RogerioHenriqueRM&theme=github_dark"/>
+<img
+  width="32%"
+  src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+  alt="Linguagens mais usadas em commits"
+/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RogerioHenriqueRM&theme=github_dark&utcOffset=-3"/>
+<img
+  width="32%"
+  src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+  alt="Horário mais produtivo"
+/>
 
 </div>
 
