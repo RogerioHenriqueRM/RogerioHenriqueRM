@@ -1,37 +1,36 @@
-name: Gerar cobrinha de contribuições
+name: Generate Snake
 
 on:
+  workflow_dispatch:
+
   schedule:
     - cron: "0 3 * * *"
-
-  workflow_dispatch:
 
   push:
     branches:
       - main
 
 jobs:
-  gerar-cobrinha:
+  generate:
     runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
     steps:
-      - name: Gerar animações
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: RogerioHenriqueRM
+          github_user_name: ${{ github.repository_owner }}
 
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#DC143C&color_dots=#161B22,#4D0A16,#820F20,#B6162D,#DC143C
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23DC143C
 
-      - name: Publicar arquivos na branch output
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish snake to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          build_dir: dist
-          branch: output
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
