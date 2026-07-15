@@ -1,52 +1,99 @@
-## Bem-vindo(a) ao perfil do Rogério Henrique RM 
+<h1 align="center">👋 Olá, eu sou Rogério Henrique Rocha de Matos</h1>
 
+<h3 align="center">
+💻 Desenvolvedor • 🤖 Automação • 📊 Power BI • ⚙️ SAP • 🐍 Python
+</h3>
 
-<h2>Estatisticas do meu github O_O </h2>
-<hr>
-<img alt="Night Coding" src="https://i.pinimg.com/originals/e6/10/9e/e6109e32a9ac1a8f2496d7fba78e9c84.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
- <div>
-   <a href="https://github.com/Rogério Henrique RM">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioHenriqueRM&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=RogerioHenriqueRM&style=for-the-badge&color=0e75b6"/>
+
 </div>
 
-<hr>
-<h2>👾Tecnologias🤖 </h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"  width="40" align="center" alt="python logo" >
-  <img align="center" alt="GIT" height="30" width="40" src="https://img.icons8.com/color/48/git.png" >
-  <img align="center" alt="kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
- 
-</div>
- 
+---
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/e6/10/9e/e6109e32a9ac1a8f2496d7fba78e9c84.gif" width="280"/>
+
+<br><br>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioHenriqueRM&layout=compact&langs_count=8&theme=tokyonight"/>
+
 <br>
- 
-### Pra conteúdo sobre programação me siga nas redes abaixo!
- 
-<div> 
-  <a href="https://www.youtube.com/@sataandagii-x4q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rog.henr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/8v96djQg5A" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rog.henr16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rog%C3%A9rio-henrique-rocha-de-matos-3423aa2ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RogerioHenriqueRM&theme=tokyonight"/>
+
 </div>
 
+---
 
+<h2 align="center">🏆 Conquistas</h2>
 
-<!--
-**rogerio-henrique-rocha-de-matos/rogerio-henrique-rocha-de-matos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://github-profile-trophy.vercel.app/?username=RogerioHenriqueRM&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<h2 align="center">👨‍💻 Tecnologias</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,kotlin,git,github,vscode" />
+
+</div>
+
+---
+
+<h2 align="center">🌎 Onde me encontrar</h2>
+
+<div align="center">
+
+<a href="https://www.youtube.com/@sataandagii-x4q">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/rog.henr/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/8v96djQg5A">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="mailto:rog.henr16@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rog%C3%A9rio-henrique-rocha-de-matos-3423aa2ba/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<h2 align="center">🐍 Minhas contribuições</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado pela visita!
+
+*"Sempre aprendendo, sempre evoluindo."* 🚀
+
+</div>
