@@ -93,7 +93,7 @@ class RogerioHenrique:
 
 <div align="center">
 
-## 👁️ Tecnologias
+##  Tecnologias
 
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css,kotlin,git,github,vscode,mysql,nextjs,nodejs,react&theme=dark"/>
 
