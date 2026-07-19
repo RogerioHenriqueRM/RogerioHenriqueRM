@@ -149,7 +149,7 @@ class RogerioHenrique:
 
 <div align="center">
 
-## 🐍 Minhas contribuições
+##  Minhas contribuições
 
 <picture>
   <source
