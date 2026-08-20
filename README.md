@@ -228,6 +228,7 @@ class RogerioHenrique:
 
 <br>
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=DC143C&center=true&vCenter=true&width=700&lines=N%C3%A3o+sou+o+protagonista+de+um+romance.;Sou+apenas+um+programador+criando+seu+caminho.;Sempre+aprendendo.+Sempre+evoluindo." />
 
 <br>
