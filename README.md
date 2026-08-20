@@ -97,7 +97,7 @@ class RogerioHenrique:
 
 ##  Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,kotlin,git,github,vscode,mysql,nextjs,nodejs,intellij,react&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,kotlin,java,git,github,vscode,mysql,nextjs,nodejs,react&theme=dark"/>
 
 </div>
 
