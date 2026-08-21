@@ -67,16 +67,15 @@ class RogerioHenrique:
 
 <img
   width="49%"
-  src="https://github-stats-extended.vercel.app/api?username=RogerioHenriqueRM&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api?username=RogerioHenriqueRM&include_all_commits=true&show_icons=true&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF"
 />
 
 <img
   width="49%"
-  src="https://github-stats-extended.vercel.app/api/top-langs?username=RogerioHenriqueRM&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=RogerioHenriqueRM&layout=compact&langs_count=8&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF"
 />
 
 </div>
-
 
 <div align="center">
 
