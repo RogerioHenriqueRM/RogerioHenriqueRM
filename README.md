@@ -120,7 +120,7 @@ class RogerioHenrique:
 
 ## 🏆 Conquistas
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=RogerioHenriqueRM&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RogerioHenriqueRM&theme=darkhub&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -163,10 +163,9 @@ class RogerioHenrique:
     srcset="https://raw.githubusercontent.com/RogerioHenriqueRM/RogerioHenriqueRM/output/github-contribution-grid-snake.svg"
   />
 
-  <img
-    alt="Animação das contribuições de Rogério Henrique"
-    src="https://raw.githubusercontent.com/RogerioHenriqueRM/RogerioHenriqueRM/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RogerioHenriqueRM/RogerioHenriqueRM/output/github-contribution-grid-snake-dark.svg">
+
+<img src="https://raw.githubusercontent.com/RogerioHenriqueRM/RogerioHenriqueRM/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
