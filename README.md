@@ -63,27 +63,20 @@ class RogerioHenrique:
 
 <div align="center">
 
-## 🕷️ Estatísticas do GitHub
+##GITHUB
 
 <img
   width="49%"
-  src="https://github-readme-stats-fstgpe.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&theme=shadow-red"
+  src="https://github-readme-stats-fstgpe.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&cache_seconds=86400"
 />
 
 <img
   width="49%"
-  src="https://github-readme-stats-fstgpe.vercel.app/api/top-langs/?username=RogerioHenriqueRM&layout=compact&theme=shadow-red"
-/>
-
-<br><br>
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=RogerioHenriqueRM&theme=shadow-red&hide_border=true&background=050505&ring=DC143C&fire=8B0000&currStreakLabel=DC143C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+  src="https://github-readme-stats-fstgpe.vercel.app/api/top-langs?username=RogerioHenriqueRM&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF&cache_seconds=86400"
 />
 
 </div>
----
+
 
 <div align="center">
 
