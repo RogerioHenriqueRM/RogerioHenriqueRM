@@ -67,14 +67,13 @@ class RogerioHenrique:
 
 <img
   width="49%"
-  src="https://github-readme-stats-fstgpe.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&icon_color=8B0000&text_color=FFFFFF&include_all_commits=true&cache_seconds=86400"
+  src="https://github-readme-stats-fstgpe.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&theme=tokyonight"
 />
 
 <img
   width="49%"
-  src="https://github-readme-stats-fstgpe.vercel.app/api/top-langs/?username=RogerioHenriqueRM&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF&cache_seconds=86400"
+  src="https://github-readme-stats-fstgpe.vercel.app/api/top-langs/?username=RogerioHenriqueRM&layout=compact&theme=tokyonight"
 />
-
 <br><br>
 
 <img
