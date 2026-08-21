@@ -76,8 +76,8 @@ class RogerioHenrique:
 />
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RogerioHenriqueRM&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=RogerioHenriqueRM&include_all_commits=true)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RogerioHenriqueRM&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=RogerioHenriqueRM&langs_count=4)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RogerioHenriqueRM&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=RogerioHenriqueRM&include_all_commits=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF&cache_seconds=86400)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RogerioHenriqueRM&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=RogerioHenriqueRM&langs_count=4&bg_color=050505&title_color=DC143C&text_color=FFFFFF&cache_seconds=86400)
 
 </div>
 
