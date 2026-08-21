@@ -63,21 +63,17 @@ class RogerioHenrique:
 
 <div align="center">
 
-##GITHUB
+## 🕷️ Estatísticas do GitHub
 
 <img
   width="49%"
-  src="https://github-readme-stats-fstgpe.vercel.app/api?username=RogerioHenriqueRM&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&cache_seconds=86400"
+  src="https://github-stats-extended.vercel.app/api?username=RogerioHenriqueRM&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true"
 />
 
 <img
   width="49%"
-  src="https://github-readme-stats-fstgpe.vercel.app/api/top-langs?username=RogerioHenriqueRM&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF&cache_seconds=86400"
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=RogerioHenriqueRM&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
 />
-
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RogerioHenriqueRM&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=RogerioHenriqueRM&include_all_commits=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF&cache_seconds=86400)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RogerioHenriqueRM&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=RogerioHenriqueRM&langs_count=4&bg_color=050505&title_color=DC143C&text_color=FFFFFF&cache_seconds=86400)
 
 </div>
 
