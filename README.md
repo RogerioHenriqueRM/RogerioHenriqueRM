@@ -75,9 +75,9 @@ class RogerioHenrique:
   src="https://github-readme-stats-puce-ten-50.vercel.app/api/top-langs?username=RogerioHenriqueRM&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF"
 />
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=RogerioHenriqueRM&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=RogerioHenriqueRM&theme=dark&background=0D0808&border=8B0000&stroke=8B0000&ring=B22222&fire=DC143C&currStreakLabel=DC143C"/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=RogerioHenriqueRM&theme=dracula&background=0D1117&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=RogerioHenriqueRM&theme=dracula&background=0D1117&border=FF79C6&stroke=FF79C6&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6"/>
 
 </div>
 
