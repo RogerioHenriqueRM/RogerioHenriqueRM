@@ -77,7 +77,7 @@ class RogerioHenrique:
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=RogerioHenriqueRM&theme=dark&background=0D0808&border=8B0000&stroke=8B0000&ring=B22222&fire=DC143C&currStreakLabel=DC143C"/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=RogerioHenriqueRM&theme=dracula&background=0D1117&border=FF79C6&stroke=FF79C6&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6"/>
+
 
 </div>
 
