@@ -139,7 +139,7 @@ class RogerioHenrique:
 
 ## 🩸 Gráfico de contribuições
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RogerioHenriqueRM&bg_color=0D0808&color=FFFFFF&line=8B0000&point=DC143C&area=true&area_color=8B0000&hide_border=true&custom_title=Atividade%20de%20Rogerio%20Henrique"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RogerioHenriqueRM"/>
 
 </div>
 
