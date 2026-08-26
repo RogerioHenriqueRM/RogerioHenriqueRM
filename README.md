@@ -75,6 +75,8 @@ class RogerioHenrique:
   src="https://github-readme-stats-puce-ten-50.vercel.app/api/top-langs?username=RogerioHenriqueRM&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF"
 />
 
+<img height="180em" src="https://streak-stats.demolab.com/?user=RogerioHenriqueRM&include_all_commits=true&count_private=true&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF"/>
+
 </div>
 
 <div align="center">
