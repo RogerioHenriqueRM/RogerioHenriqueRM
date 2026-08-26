@@ -189,7 +189,7 @@ class RogerioHenrique:
 
 ## 📡 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/rog%C3%A9rio-henrique-rocha-de-matos-3423aa2ba/">
+<a href="https://www.linkedin.com/in/rog%C3%A9rio-henrique-rocha-de-matos-847675314/">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=DC143C"/>
 </a>
 
