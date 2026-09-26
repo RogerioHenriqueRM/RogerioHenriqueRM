@@ -75,7 +75,7 @@ class RogerioHenrique:
 <a href="https://github.com/stats-organization/github-stats-extended">
 <img
   width="49%"
-  src="https://github-stats-extended.vercel.app/api/top-langs?
+  src="https://github-stats-extended.vercel.app/api/top-langs?/
   username=RogerioHenriqueRM&layout=compact&langs_count=8&theme=shadow_red&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF"
 />
 </a>  
