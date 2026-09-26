@@ -67,12 +67,12 @@ class RogerioHenrique:
 
 <img
   width="49%"
-  src="https://github-readme-stats-puce-ten-50.vercel.app/api?username=RogerioHenriqueRM&include_all_commits=true&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF"
+  src="https://github-readme-stats-puce-ten-50.vercel.app/api?username=RogerioHenriqueRM&include_all_commits=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF"
 />
 
 <img
   width="49%"
-  src="https://github-readme-stats-puce-ten-50.vercel.app/api/top-langs?username=RogerioHenriqueRM&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF"
+  src="https://github-readme-stats-puce-ten-50.vercel.app/api/top-langs?username=RogerioHenriqueRM&layout=compact&langs_count=8&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF"
 />
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=RogerioHenriqueRM&theme=dark&hide_border=true&background=0D0808&ring=8B0000&fire=DC143C&currStreakLabel=DC143C"/>
