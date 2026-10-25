@@ -62,10 +62,10 @@ class RogerioHenrique:
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=RogerioHenriqueRM&include_all_commits=true&show_icons=true&count_private=true&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF" alt="Estatísticas do GitHub"/>
 </a>
 <a href="https://github.com/stats-organization/github-stats-extended">
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=RogerioHenriqueRM&layout=compact&langs_count=8&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF" alt="Linguagens mais utilizadas"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=RogerioHenriqueRM&count_private=true&layout=compact&langs_count=8&theme=shadow_red&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF" alt="Linguagens mais utilizadas"/>
 </a>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=RogerioHenriqueRM&theme=dark&hide_border=true&background=050505&ring=8B0000&fire=DC143C&currStreakLabel=DC143C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="Sequência de contribuições"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=RogerioHenriqueRM&theme=dark&count_private=true&hide_border=true&background=050505&ring=8B0000&fire=DC143C&currStreakLabel=DC143C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="Sequência de contribuições"/>
 
 </div>
 
