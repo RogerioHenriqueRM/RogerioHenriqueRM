@@ -158,17 +158,18 @@ Ferramentas	Git, GitHub, VS Code e Linux
 
 </div>
 
-╔══════════════════════════════════════════════╗
-║                                              ║
-║  🩸 Desenvolvimento de software              ║
-║  🩸 Aplicações Android com Kotlin            ║
-║  🩸 Automação de processos com Python        ║
-║  🩸 Desenvolvimento Web e Full Stack         ║
-║  🩸 APIs, banco de dados e integrações       ║
-║  🩸 Inteligência artificial e tecnologia     ║
-║                                              ║
-╚══════════════════════════════════════════════╝
 <div align="center">
+
+🩸 Desenvolvimento de software &nbsp; • &nbsp;
+🩸 Aplicações Android com Kotlin
+
+🩸 Automação de processos com Python &nbsp; • &nbsp;
+🩸 Desenvolvimento Web e Full Stack
+
+🩸 APIs, banco de dados e integrações &nbsp; • &nbsp;
+🩸 Inteligência artificial e tecnologia
+
+</div>
 
 <h2 align="center">📡 Conecte-se comigo</h2>
 
